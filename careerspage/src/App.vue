@@ -3,7 +3,7 @@
   <main-nav/>
   <img alt="Vue logo" src="./assets/logo.png">
   <h1>{{myname}}</h1>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="Welcome"/>
  
 </template>
 
